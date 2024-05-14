@@ -3,7 +3,6 @@ import './Dice.css';
 import Dau from './Dau';
 
 const Dice = ({ diceNumbers }) => {
-  
     return (
         <div className='Dice'>
             {
